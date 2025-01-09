@@ -10,7 +10,7 @@ import Banner from "./components/Navbar/Banner";
 import Appstore from "./components/Appstore";
 import  Testonomial from "./components/Navbar/Testonomial";
 import Footer from "./components/Navbar/footer";
-
+// import LoginSignup from "./components/Navbar/LoginSignup";
 
 
 const App = () => {
@@ -33,6 +33,7 @@ const App = () => {
         <Appstore/>
         <Testonomial/>
         <Footer/>
+        {/* <LoginSignup/> */}
          
       
 
