@@ -37,7 +37,7 @@ const Footer = () => {
               Espresso Escape
             </p>
             <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
+              href="https://www.youtube.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full"
@@ -91,7 +91,7 @@ const Footer = () => {
                 Address
               </h1>
               <div>
-                <p className="mb-3">JM Road Pune</p>
+                <p className="mb-3">JM Road,Pune</p>
                 <p>+91 9373557423</p>
 
                 {/* Social links */}

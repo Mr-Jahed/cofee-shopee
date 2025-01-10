@@ -6,26 +6,26 @@ const TestimonialData = [
      
     id: 1,
     name: "Ruchita",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://your-new-image-url.com/image1.jpg", // Update with your new image URL
+    text: "Best coffee in town! The perfect start to my day every time. ☕✨",
+    img: "RUchita.jpeg", // Update with your new image URL
   },
   {
     id: 2,
-  name: "Puja",
-  text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-  img: "/family.jpg",
+  name: "Pranita",
+  text: "Amazing ambiance and even better lattes! Highly recommend. ❤️",
+  img: "/pranita.jpg",
   },
   {
     id: 3,
-    name: "Sakshi",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://your-new-image-url.com/image3.jpg", // Update with your new image URL
+    name: "Ghanishtha",
+    text: "The cappuccinos are heavenly, and the pastries are a must-try! 🥐☕",
+    img: "ghanu.jpg", // Update with your new image URL
   },
   {
     id: 5,
-    name: "Satya Narayan",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://your-new-image-url.com/image4.jpg", // Update with your new image URL
+    name: "Komal",
+    text: "Great coffee, friendly staff, and cozy vibes—my favorite spot! 🌟",
+    img: "komal.jpg", // Update with your new image URL
   },
   
 ];
