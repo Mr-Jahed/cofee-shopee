@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  coffe-shop:
+    build: .
+    container_name: coffe-shop-container
+    ports:
+      - "3000:80"
+    restart: always

@@ -9,7 +9,7 @@ import Services from "./components/Navbar/Services";
 import Banner from "./components/Navbar/Banner";
 import Appstore from "./components/Appstore";
 import  Testonomial from "./components/Navbar/Testonomial";
-import Footer from "./components/Navbar/footer";
+import Footer from "./components/Navbar/Footer";
 // import LoginSignup from "./components/Navbar/LoginSignup";
 
 
